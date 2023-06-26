@@ -3425,23 +3425,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Users\\LACINE BERTHE\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Bureau\\projetfinal\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\LACINE BERTHE\\Desktop\\POEI_DotNet\\Projet_Final\\GIT\\Reseau_Social\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\user\\OneDrive\\Bureau\\projetfinal\\DAL\\DAL.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\OneDrive\\Bureau\\projetfinal\\DAL\\obj\\",
+      "projectPath": "C:\\Users\\LACINE BERTHE\\Desktop\\POEI_DotNet\\Projet_Final\\GIT\\Reseau_Social\\DAL\\DAL.csproj",
+      "packagesPath": "C:\\Users\\LACINE BERTHE\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LACINE BERTHE\\Desktop\\POEI_DotNet\\Projet_Final\\GIT\\Reseau_Social\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LACINE BERTHE\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3451,8 +3451,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet5/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
@@ -3501,7 +3500,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
